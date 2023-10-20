@@ -110,3 +110,10 @@ main {
 .movie:hover .overview {
   transform: translateY(0);
 }
+
+button {
+background-color: #22254b;
+color: #fff;
+border-radius: 15ch;
+padding: 3%;
+}
