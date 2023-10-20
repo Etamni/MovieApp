@@ -47,6 +47,13 @@ main {
   justify-content: center;
 }
 
+button {
+  background-color: #22254b;
+  color: #fff;
+  border-radius: 15ch;
+  padding: 3%;
+  }
+  
 .movie {
   width: 300px;
   margin: 1rem;
@@ -111,9 +118,3 @@ main {
   transform: translateY(0);
 }
 
-button {
-background-color: #22254b;
-color: #fff;
-border-radius: 15ch;
-padding: 3%;
-}
